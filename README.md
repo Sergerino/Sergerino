@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serge</h1>
+<h5 align="center">Currently a student at School 42, progressing in c 😎</h5>
 
 <h3 align="center">A strive for Entrepreneurship, particularly in creating businesses in tech and engaging with start-ups in order to develop a greater understanding of the fundamentals of business growth of which I deem essential for my success within the career I would like to pursue.</h3>
 
