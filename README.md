@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Serge</h1>
 
-<h3 align="center">A strive for Entrepreneurship, particularly in creating businesses and engaging with start-ups in order to develop a greater understanding of the fundamentals of business growth of which I deem essential for my success within the career I would like to pursue.</h3>
+<h4 align="center">A strive for Entrepreneurship, particularly in creating businesses and engaging with start-ups in order to develop a greater understanding of the fundamentals of business growth of which I deem essential for my success within the career I would like to pursue.</h4>
 
 
 <h3 align="center"> out-of-the-box thinker, dedicated over motivated, enjoy a challenge, innovative, perfectionist, and, last but not least, optimistic even in the worst-case scenarios, and best of yet, my ability to learn quickly and adapt my own ideologies.</h3>
