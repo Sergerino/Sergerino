@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat+bold&weight=600&size=35&duration=4000&pause=1000&color=F6F7EF&vCenter=true&random=false&width=760&lines=Hey+There+Fella+%F0%9F%91%8B;Currently+a+Student+at+42+Perpignan!+%F0%9F%8F%AB;Passion+for+Tech+%26+Finance!+%F0%9F%93%88;Future+Tech+Entrepreneur!+%F0%9F%94%AE%F0%9F%9A%80" alt="Welcome to my profile" /></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat+bold&weight=600&size=35&duration=4000&pause=1000&color=F6F7EF&vCenter=true&random=false&width=760&lines=Hey+There+Fella+%F0%9F%91%8B;Currently+a+Student+at+42+Perpignan!+;Passion+for+Tech+%26+Finance!+;Future+Tech+Entrepreneur!+" alt="Welcome to my profile" /></a></p>
 <h4>🖥️ Holding a Bachelor's degree in International Business Administration, but computers have been my lifelong love affair since a very young age. The synergy of both worlds seems like a promising journey for my career aspirations.</h4>
 <h4>🌩️ Passionate about cloud engineering – that's my next big leap. Currently learning the ropes of cloud engineering, one algorithm at a time. Ask me anything, I'm all ears!</h4>
 <h4>📚 Backend is my playground, and I've got a thing for math. </h4>
