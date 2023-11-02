@@ -4,6 +4,7 @@
 <h4>🌩️ Passionate about cloud engineering – that's my next big leap. Currently learning the ropes of cloud engineering, one algorithm at a time. Ask me anything, I'm all ears!</h4>
 <h4>📚 Backend is my playground, and I've got a thing for math. </h4>
 <h4>📫 Need to reach me? Drop a line at sergecervello@gmail.com</h4>
+<h2></h2>
 <br>
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
