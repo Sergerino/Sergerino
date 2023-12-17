@@ -9,6 +9,7 @@
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
+      <a href="#"><img alt="Golang" src="https://custom-icon-badges.demolab.com/badge/Golang-FFFFFF.svg?logo=golang"></a>
       <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
       <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
       <a href="#"><img alt="Google Apps Script" src="https://custom-icon-badges.demolab.com/badge/Google%20Apps%20Script-02569B.svg?logo=gs&logoColor=white"></a>
